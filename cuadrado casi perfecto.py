@@ -12,8 +12,8 @@ z=1
 x=600
 q=600
 w=1
-f=600
-g=600
+f=400
+g=400
 
 def principio():
 	canvas.create_text((a,s),text = "*",fill = 'lawn green', font = ('Arial', 30))
